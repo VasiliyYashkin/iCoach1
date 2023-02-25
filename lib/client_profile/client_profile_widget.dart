@@ -145,12 +145,12 @@ class _ClientProfileWidgetState extends State<ClientProfileWidget> {
                               if (!snapshot.hasData) {
                                 return Center(
                                   child: SizedBox(
-                                    width: 50,
-                                    height: 50,
-                                    child: SpinKitCircle(
+                                    width: 40,
+                                    height: 40,
+                                    child: SpinKitFadingCube(
                                       color: FlutterFlowTheme.of(context)
                                           .primaryColor,
-                                      size: 50,
+                                      size: 40,
                                     ),
                                   ),
                                 );
