@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>570377037757-dses4r8cadf382fhffns85egrdb8bkqg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.570377037757-dses4r8cadf382fhffns85egrdb8bkqg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>570377037757-pqom5fkjr7k3edb1eteuhsqckcfr9fe0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBTqIw5V-3j6qUSRXdbhCZZ-svplMFRnU4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>570377037757</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.weloveflutterflow.icoach</string>
+	<key>PROJECT_ID</key>
+	<string>icoach-4fe22</string>
+	<key>STORAGE_BUCKET</key>
+	<string>icoach-4fe22.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:570377037757:ios:b8c6ecd22c5e677efe14d4</string>
+</dict>
+</plist>

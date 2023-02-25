@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "570377037757",
+    "project_id": "icoach-4fe22",
+    "storage_bucket": "icoach-4fe22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570377037757:android:df4a9e3d953d5680fe14d4",
+        "android_client_info": {
+          "package_name": "com.weloveflutterflow.icoach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570377037757-pqom5fkjr7k3edb1eteuhsqckcfr9fe0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weloveflutterflow.icoach",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "570377037757-1p81m6vqpnr90l5ii6aspfhvfpp24aln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2MUjvt8bkqwpFFsuwbGB8jTPPTJtYqZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570377037757-1p81m6vqpnr90l5ii6aspfhvfpp24aln.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "570377037757-dses4r8cadf382fhffns85egrdb8bkqg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.weloveflutterflow.icoach"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
